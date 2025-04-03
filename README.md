@@ -27,3 +27,6 @@ Dataset: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/
 - `Jupyter Notebook` → Development environment  
 
 ---
+
+### Notebook Viewer
+[Notebook Viewer](https://nbviewer.org/github/annamoskow/supermarket-sales-analysis/blob/main/Supermarket%20Sales.ipynb)
