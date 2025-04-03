@@ -20,7 +20,7 @@ Dataset: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/
 ---
 
 ### Tools & Libraries  
-- **Python**  
+**Python**  
 - `pandas` → Data cleaning & manipulation  
 - `plotly` → Visualisations  
 - `numpy` → Numerical operations  
